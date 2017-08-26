@@ -1,0 +1,52 @@
+
+body{
+	background-color: #244b63;
+	font-family: Arial;
+}
+
+#main-container{
+	margin: 150px auto;
+	width: 600px;
+}
+
+table{
+	background-color: white;
+	text-align: left;
+	border-collapse: collapse;
+	width: 100%;
+}
+#boton1{
+   
+    text-align: center;
+    background: rgba(0,0,0,0.6);
+    color: #fff;
+    padding: 10px;
+    border-radius: 7px;
+    border: 10px;
+    margin-top: 1%;
+    margin-bottom:1%;
+    width:100px;
+}
+#boton1:hover{
+    cursor: pointer;
+}
+
+
+th, td{
+	padding: 20px;
+}
+
+thead{
+	background-color: #1c7bb5;
+	
+	color: white;
+}
+
+tr:nth-child(even){
+	background-color: #ddd;
+}
+
+tr:hover td{
+	background-color: #244b63;
+	color: white;
+}
