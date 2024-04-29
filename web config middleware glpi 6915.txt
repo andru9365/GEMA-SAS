@@ -1,0 +1,16 @@
+  <add key="TipoCuentaObligacionFinanciera" value="tipoCuentaObligacionFinanciera"/>
+  <add key="TipoCuentaCAV" value="CAV"/>
+  <add key="SaldoActualObligacionFinanciera" value="saldoActualObligacionFinanciera"/>
+  <add key="SaldoActualObligacionFinancieraHipotecaria" value="saldoActualObligacionFinancieraHipotecaria"/>
+
+
+  <add key="TabObligacionesFinancierasConyuge" value="TabObligacionesFinancierasConyuge"/>
+  <add key="CalidadDeudorConyuge" value="calidadDeudorConyuge"/>
+  <add key="ObligacionesFinancierasConyuge" value="obligacionesFinancierasConyuge"/>
+
+
+  <add key="ObligacionesFinancieras" value="obligacionesFinancieras"/>
+  <add key="DeudorPrincipal" value="Deudor Principal"/>
+  <add key="FormEditResponse" value="FormEditResponse"/>
+  <add key="TabObligacionesFinancieras" value="TabObligacionesFinancieras"/>
+  <add key="CalidadDeudor" value="calidadDeudor"/>
